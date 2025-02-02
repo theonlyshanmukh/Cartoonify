@@ -3,11 +3,7 @@ This project is about cartoonifying an image using machine learning. Specificall
 <br>
 I used one of the popular clustering algorithm called **KMeans**. I used the algorithm for color palette control and some opencv-numpy transformation for the edge drawing. Have a look at my repository!
 <br/>
-```bash
-# run this prompt
-python cartoonizer.py
-```
-<br/>
+
 | Original Image  | Cartoonifed Image |
 | ------------- | ------------- |
 | <img src="therock.png" width=400>  | <img src="cartoon.png" width=400>  |
